@@ -1,2 +1,1 @@
-# clientmods
-Just a temporary hosting location for various client modifications
+Download zips from above to get various client side mods.
