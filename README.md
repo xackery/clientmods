@@ -35,3 +35,5 @@ Edits modern spectres to become classic.
 Replaces global6_chr2.s3d
 
 [Download Here](https://github.com/xackery/clientmods/blob/main/spectre.zip)
+
+![{AE1D71B1-A758-43C4-8D12-C047AD4DC786}](https://github.com/user-attachments/assets/751ecd97-b530-42ac-b191-34ca2a67bd15)
