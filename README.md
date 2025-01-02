@@ -1,4 +1,4 @@
-Download zips from above to get various client side mods.
+![{0383AB2E-64D2-4819-830B-F01F92184905}](https://github.com/user-attachments/assets/ad76bf97-8aa2-41be-b9c9-269b154c463e)Download zips from above to get various client side mods.
 
 ## luclin-skeleton-to-classic.zip
 Edits the "A posing" skeletons for luclin to now use the classic skeleton. Does not impact the "newer skeleton
@@ -37,3 +37,13 @@ Replaces global6_chr2.s3d
 [Download Here](https://github.com/xackery/clientmods/blob/main/spectre.zip)
 
 ![{AE1D71B1-A758-43C4-8D12-C047AD4DC786}](https://github.com/user-attachments/assets/751ecd97-b530-42ac-b191-34ca2a67bd15)
+
+## bag-redux.zip
+
+Reduces sound of "cloth bags" opening, as well as fully mutes boxes
+
+Doesn't replace any existing files
+
+[Download Here](https://github.com/xackery/clientmods/blob/main/bag-redux.zip)
+
+![{0383AB2E-64D2-4819-830B-F01F92184905}](https://github.com/user-attachments/assets/6ec1f10b-0c8f-4aa0-a3b9-712e19101b70)
