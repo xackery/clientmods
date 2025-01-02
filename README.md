@@ -1,4 +1,4 @@
-![{0383AB2E-64D2-4819-830B-F01F92184905}](https://github.com/user-attachments/assets/ad76bf97-8aa2-41be-b9c9-269b154c463e)Download zips from above to get various client side mods.
+Download zips from above to get various client side mods.
 
 ## luclin-skeleton-to-classic.zip
 Edits the "A posing" skeletons for luclin to now use the classic skeleton. Does not impact the "newer skeleton
