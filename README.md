@@ -47,3 +47,15 @@ Doesn't replace any existing files
 [Download Here](https://github.com/xackery/clientmods/blob/main/bag-redux.zip)
 
 ![{0383AB2E-64D2-4819-830B-F01F92184905}](https://github.com/user-attachments/assets/6ec1f10b-0c8f-4aa0-a3b9-712e19101b70)
+
+
+### scaledwolf.zip
+
+Edits modern scaled wolf to become classic.
+
+Replaces grass.s3d
+![{4B5E3E18-0486-4ABD-B19D-EFB910D81E4B}](https://github.com/user-attachments/assets/276e5fec-dd45-4f3c-a80d-b333efa132e0)
+
+[Download Here](https://github.com/xackery/clientmods/blob/main/scaledwolf.zip)
+
+    
