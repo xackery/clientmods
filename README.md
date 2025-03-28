@@ -3,7 +3,7 @@ Download zips from above to get various client side mods.
 ## luclin-skeleton-to-classic.zip
 Edits the "A posing" skeletons for luclin to now use the classic skeleton. Does not impact the "newer skeleton
 
-[Download Here](https://github.com/xackery/clientmods/raw/refs/heads/main/classic-robes.zip)
+[Download Here](https://github.com/xackery/clientmods/raw/refs/heads/main/luclin-skeleton-to-classic.zip)
 
 Replaces gequip5.s3d and global6_chr.s3d
 
@@ -14,7 +14,7 @@ Edits classic PC models to now support robes. Thanks darius!
 
 Replaces global_chr.s3d and global4_chr.s3d
 
-[Download Here](https://github.com/xackery/clientmods/raw/refs/heads/main/luclin-skeleton-to-classic.zip)
+[Download Here](https://github.com/xackery/clientmods/raw/refs/heads/main/classic-robes.zip)
 
 ![image](https://github.com/user-attachments/assets/e865325e-ae34-4cb2-9bea-c292e3591158)
 
